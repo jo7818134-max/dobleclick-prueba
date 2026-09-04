@@ -1,0 +1,23 @@
+DOBLECLICK V18 ACTUALIZADO - PRUEBA GITHUB PAGES
+
+1. En GitHub entra a dobleclick-prueba.
+2. Pulsa Agregar archivo > Subir archivos.
+3. Sube index.html y logo.png si está incluido.
+4. Confirma reemplazar el index.html existente y pulsa Confirmar cambios.
+5. Espera 1-3 minutos.
+6. Abre tu GitHub Pages y presiona Ctrl+F5.
+
+Cambios principales:
+- Agente eliminado.
+- Sistema de referidos eliminado.
+- Máximo 3 intentos de login.
+- Número e imagen de comprobante no reutilizables.
+- Radio circular pequeña.
+- Categorías seleccionables + crear nueva.
+- Imagen por producto.
+- Vigencia por producto.
+- Módulo Vencimientos para Admin y Distribuidor, no Cliente.
+- Botón WhatsApp con mensaje de renovación preparado.
+- Visitas eliminadas.
+
+IMPORTANTE: El envío de WhatsApp totalmente automático requiere WhatsApp Business API + backend; GitHub Pages solo puede abrir el mensaje preparado.
