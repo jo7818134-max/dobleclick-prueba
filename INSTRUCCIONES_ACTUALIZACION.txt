@@ -1,0 +1,13 @@
+DOBLECLICK V18.0 - ACTUALIZACION
+
+1. Sube index.html y logo.png a la misma carpeta de tu sitio.
+2. Reemplaza los archivos anteriores; no cambies sus nombres.
+3. Abre la pagina y fuerza la actualizacion con Ctrl + F5.
+4. Si el navegador conserva datos antiguos del demo, entra como Administrador,
+   guarda primero un respaldo y usa "Restablecer demo" solamente si deseas
+   comenzar con los datos de ejemplo de V18.0.
+
+IMPORTANTE SOBRE WHATSAPP
+La pagina detecta automaticamente los vencimientos y prepara el mensaje.
+WhatsApp exige que el usuario confirme el envio. El envio sin intervencion
+requiere WhatsApp Business API y un servidor autorizado.
